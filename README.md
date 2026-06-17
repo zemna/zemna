@@ -11,7 +11,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://zemna.net"><img src="https://img.shields.io/badge/zemna.net-5E6AD2?style=for-the-badge&logo= Hugo&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="https://zemna.net"><img src="https://img.shields.io/badge/zemna.net-5E6AD2?style=for-the-badge&logo=globe&logoColor=white" alt="Blog" /></a>&nbsp;
   <a href="https://x.com/zemnanet"><img src="https://img.shields.io/badge/X-@zemnanet-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
   <a href="https://instagram.com/zemna"><img src="https://img.shields.io/badge/Instagram-@zemna-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://linkedin.com/in/zemnanet"><img src="https://img.shields.io/badge/LinkedIn-zemnanet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
