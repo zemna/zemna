@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/zemna">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&random=false&width=600&lines=Shinjae+Kang;Software+Architect;Korea+%E2%86%94+Indonesia+Dev+Bridge;AI+Business+Director" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&random=false&width=600&lines=Shinjae+Kang;Software+Architect;Korea+%E2%86%94+Indonesia+Dev+Bridge;General+Manager+AI+Business" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 Software architect with **20+ years** across the full stack. Based in **Cileungsi, Bogor, Indonesia**. Korean engineer working in Southeast Asia.
 
-**Now:** AI Business Director at **PT Fast Beauty Indonesia** (since May 2026).
+**Now:** General Manager, AI Business at **PT Fast Beauty Indonesia** (since May 2026).
 
 **Also:**
 - Writing at [zemna.net](https://zemna.net) — blog + [portfolio](https://zemna.net/portfolio/)
