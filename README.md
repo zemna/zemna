@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/zemna">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&random=false&width=600&lines=Shinjae+Kang;Senior+Software+Developer;Korea+%E2%86%94+Indonesia+Dev+Bridge;15%2B+Years+Building+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&random=false&width=600&lines=Shinjae+Kang;Software+Architect;Korea+%E2%86%94+Indonesia+Dev+Bridge;AI+Business+Director" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,13 +24,14 @@
 
 ## 👋 About
 
-Senior software developer with **20+ years** of experience across the full stack. Based in **Jakarta, Indonesia**, I bridge Korean engineering culture with Southeast Asia's rapidly growing tech ecosystem.
+Software architect with **20+ years** across the full stack. Based in **Cileungsi, Bogor, Indonesia**. Korean engineer working in Southeast Asia.
 
-**Current focus:**
-- 🔧 Building business systems for Indonesian companies (payroll, inventory, HR)
-- 🌍 Sharing developer insights through [zemna.net](https://zemna.net)
-- 🤖 Exploring AI agent automation and LLM workflows
-- 🏗️ Laravel + Vue.js + Tailwind CSS as my primary stack
+**Now:** AI Business Director at **PT Fast Beauty Indonesia** (since May 2026).
+
+**Also:**
+- Writing at [zemna.net](https://zemna.net) — blog + [portfolio](https://zemna.net/portfolio/)
+- Laravel + Vue.js + PHP as the primary product stack
+- Modoo Laravel/Vue SaaS projects I built live under [`modoo-id`](https://github.com/modoo-id) (project name, not employer)
 
 <div align="center">
 
